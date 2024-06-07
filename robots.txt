@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etavarb.github.io/sitemap.html
+Sitemap: https://etavarb.github.io/app/sitemap.html
+Sitemap: https://etavarb.github.io/assets/sitemap.html
+Sitemap: https://etavarb.github.io/includes/sitemap.html
+Sitemap: https://etavarb.github.io/src/sitemap.html
